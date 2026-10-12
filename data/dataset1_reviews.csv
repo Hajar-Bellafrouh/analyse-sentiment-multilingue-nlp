@@ -1,0 +1,501 @@
+review_id,text,rating,sentiment,product_category
+1,Great value for money,4,positive,fashion
+2,"I love it, will definitely buy again",5,positive,home
+3,Works perfectly and arrived quickly,5,positive,home
+4,Decent quality for the price,3,neutral,fashion
+5,"Terrible product, broke after one use",1,negative,home
+6,It works as expected,3,neutral,home
+7,Decent quality for the price,3,neutral,electronics
+8,Not bad but not great either,3,neutral,home
+9,Very disappointed with the quality,2,negative,electronics
+10,Decent quality for the price,3,neutral,fashion
+11,Decent quality for the price,3,neutral,fashion
+12,Very disappointed with the quality,2,negative,fashion
+13,"Excellent product, very satisfied with the quality",4,positive,fashion
+14,It works as expected,3,neutral,electronics
+15,"I love it, will definitely buy again",4,positive,electronics
+16,Poor performance and bad design,1,negative,fashion
+17,"I love it, will definitely buy again",4,positive,fashion
+18,"Terrible product, broke after one use",1,negative,electronics
+19,Customer service was awful,1,negative,fashion
+20,"Excellent product, very satisfied with the quality",5,positive,electronics
+21,It works as expected,3,neutral,electronics
+22,"I love it, will definitely buy again",4,positive,electronics
+23,"Excellent product, very satisfied with the quality",5,positive,fashion
+24,Great value for money,4,positive,electronics
+25,Works perfectly and arrived quickly,4,positive,electronics
+26,"Waste of money, not recommended",1,negative,fashion
+27,"I love it, will definitely buy again",4,positive,fashion
+28,Poor performance and bad design,1,negative,fashion
+29,Poor performance and bad design,2,negative,electronics
+30,"It's okay, does the job",3,neutral,electronics
+31,"Terrible product, broke after one use",1,negative,electronics
+32,"Amazing experience, highly recommend this",4,positive,home
+33,"Excellent product, very satisfied with the quality",5,positive,electronics
+34,Customer service was awful,1,negative,electronics
+35,Not bad but not great either,3,neutral,fashion
+36,Poor performance and bad design,1,negative,home
+37,"It's okay, does the job",3,neutral,fashion
+38,"Average product, nothing special",3,neutral,fashion
+39,"I love it, will definitely buy again",4,positive,electronics
+40,Works perfectly and arrived quickly,5,positive,fashion
+41,Very disappointed with the quality,1,negative,fashion
+42,Not bad but not great either,3,neutral,home
+43,It works as expected,3,neutral,electronics
+44,Great value for money,4,positive,fashion
+45,Not bad but not great either,3,neutral,electronics
+46,Customer service was awful,2,negative,electronics
+47,"Waste of money, not recommended",2,negative,fashion
+48,Great value for money,4,positive,home
+49,Works perfectly and arrived quickly,4,positive,fashion
+50,Not bad but not great either,3,neutral,home
+51,Customer service was awful,2,negative,home
+52,Works perfectly and arrived quickly,5,positive,electronics
+53,Decent quality for the price,3,neutral,home
+54,"Average product, nothing special",3,neutral,home
+55,"Excellent product, very satisfied with the quality",4,positive,fashion
+56,"Amazing experience, highly recommend this",4,positive,electronics
+57,"Average product, nothing special",3,neutral,home
+58,"Terrible product, broke after one use",2,negative,home
+59,"Terrible product, broke after one use",2,negative,fashion
+60,"Average product, nothing special",3,neutral,fashion
+61,"Terrible product, broke after one use",2,negative,fashion
+62,Very disappointed with the quality,2,negative,home
+63,"I love it, will definitely buy again",4,positive,electronics
+64,"Excellent product, very satisfied with the quality",5,positive,electronics
+65,"Average product, nothing special",3,neutral,home
+66,Poor performance and bad design,1,negative,home
+67,"Amazing experience, highly recommend this",5,positive,fashion
+68,"It's okay, does the job",3,neutral,fashion
+69,Customer service was awful,1,negative,home
+70,Works perfectly and arrived quickly,4,positive,home
+71,Customer service was awful,2,negative,home
+72,Decent quality for the price,3,neutral,home
+73,It works as expected,3,neutral,fashion
+74,Customer service was awful,2,negative,electronics
+75,"Average product, nothing special",3,neutral,home
+76,It works as expected,3,neutral,electronics
+77,It works as expected,3,neutral,electronics
+78,Not bad but not great either,3,neutral,home
+79,Very disappointed with the quality,1,negative,fashion
+80,Poor performance and bad design,2,negative,fashion
+81,"Amazing experience, highly recommend this",4,positive,electronics
+82,"It's okay, does the job",3,neutral,fashion
+83,It works as expected,3,neutral,fashion
+84,"Waste of money, not recommended",1,negative,electronics
+85,"Terrible product, broke after one use",1,negative,electronics
+86,"I love it, will definitely buy again",5,positive,home
+87,Great value for money,4,positive,fashion
+88,Great value for money,4,positive,home
+89,"Waste of money, not recommended",2,negative,fashion
+90,"Excellent product, very satisfied with the quality",5,positive,fashion
+91,Great value for money,5,positive,electronics
+92,"I love it, will definitely buy again",5,positive,electronics
+93,"Amazing experience, highly recommend this",4,positive,fashion
+94,Works perfectly and arrived quickly,4,positive,home
+95,"Terrible product, broke after one use",1,negative,home
+96,Works perfectly and arrived quickly,4,positive,home
+97,"Terrible product, broke after one use",1,negative,fashion
+98,"I love it, will definitely buy again",5,positive,home
+99,Very disappointed with the quality,1,negative,fashion
+100,"Average product, nothing special",3,neutral,electronics
+101,Works perfectly and arrived quickly,4,positive,electronics
+102,"Waste of money, not recommended",2,negative,home
+103,Works perfectly and arrived quickly,5,positive,home
+104,"I love it, will definitely buy again",4,positive,fashion
+105,Very disappointed with the quality,1,negative,electronics
+106,Customer service was awful,2,negative,fashion
+107,Poor performance and bad design,1,negative,fashion
+108,It works as expected,3,neutral,home
+109,"Terrible product, broke after one use",1,negative,fashion
+110,Customer service was awful,2,negative,fashion
+111,"It's okay, does the job",3,neutral,fashion
+112,Poor performance and bad design,2,negative,electronics
+113,"I love it, will definitely buy again",5,positive,electronics
+114,Poor performance and bad design,2,negative,electronics
+115,"It's okay, does the job",3,neutral,fashion
+116,It works as expected,3,neutral,fashion
+117,"Amazing experience, highly recommend this",5,positive,electronics
+118,"Average product, nothing special",3,neutral,electronics
+119,"Terrible product, broke after one use",2,negative,home
+120,"Excellent product, very satisfied with the quality",4,positive,electronics
+121,Poor performance and bad design,2,negative,home
+122,"Waste of money, not recommended",2,negative,electronics
+123,Very disappointed with the quality,2,negative,electronics
+124,"Waste of money, not recommended",2,negative,home
+125,"It's okay, does the job",3,neutral,home
+126,"Amazing experience, highly recommend this",4,positive,home
+127,Not bad but not great either,3,neutral,home
+128,"Average product, nothing special",3,neutral,fashion
+129,"Average product, nothing special",3,neutral,home
+130,Poor performance and bad design,2,negative,home
+131,Great value for money,4,positive,home
+132,Not bad but not great either,3,neutral,electronics
+133,Works perfectly and arrived quickly,5,positive,home
+134,"Amazing experience, highly recommend this",5,positive,fashion
+135,It works as expected,3,neutral,fashion
+136,"It's okay, does the job",3,neutral,home
+137,Great value for money,5,positive,electronics
+138,Not bad but not great either,3,neutral,electronics
+139,"It's okay, does the job",3,neutral,electronics
+140,Very disappointed with the quality,2,negative,electronics
+141,Great value for money,5,positive,home
+142,Customer service was awful,2,negative,home
+143,"It's okay, does the job",3,neutral,electronics
+144,Decent quality for the price,3,neutral,home
+145,Great value for money,4,positive,electronics
+146,"It's okay, does the job",3,neutral,home
+147,"It's okay, does the job",3,neutral,electronics
+148,Decent quality for the price,3,neutral,home
+149,"Terrible product, broke after one use",2,negative,electronics
+150,"I love it, will definitely buy again",5,positive,electronics
+151,It works as expected,3,neutral,home
+152,Works perfectly and arrived quickly,4,positive,electronics
+153,Decent quality for the price,3,neutral,home
+154,Customer service was awful,1,negative,electronics
+155,It works as expected,3,neutral,fashion
+156,Customer service was awful,1,negative,fashion
+157,Works perfectly and arrived quickly,5,positive,home
+158,Works perfectly and arrived quickly,5,positive,home
+159,Not bad but not great either,3,neutral,fashion
+160,Decent quality for the price,3,neutral,fashion
+161,Decent quality for the price,3,neutral,fashion
+162,Customer service was awful,2,negative,electronics
+163,"Excellent product, very satisfied with the quality",4,positive,electronics
+164,"Excellent product, very satisfied with the quality",5,positive,home
+165,It works as expected,3,neutral,home
+166,"Excellent product, very satisfied with the quality",4,positive,fashion
+167,"It's okay, does the job",3,neutral,home
+168,It works as expected,3,neutral,fashion
+169,Decent quality for the price,3,neutral,home
+170,"Excellent product, very satisfied with the quality",4,positive,fashion
+171,Customer service was awful,1,negative,electronics
+172,"Excellent product, very satisfied with the quality",4,positive,home
+173,"Amazing experience, highly recommend this",5,positive,fashion
+174,Very disappointed with the quality,2,negative,fashion
+175,Not bad but not great either,3,neutral,home
+176,"Terrible product, broke after one use",2,negative,home
+177,"Excellent product, very satisfied with the quality",4,positive,fashion
+178,Works perfectly and arrived quickly,4,positive,home
+179,"Waste of money, not recommended",2,negative,home
+180,It works as expected,3,neutral,electronics
+181,Decent quality for the price,3,neutral,electronics
+182,"It's okay, does the job",3,neutral,home
+183,Great value for money,5,positive,electronics
+184,It works as expected,3,neutral,electronics
+185,It works as expected,3,neutral,home
+186,"Terrible product, broke after one use",2,negative,electronics
+187,"Amazing experience, highly recommend this",4,positive,electronics
+188,"Amazing experience, highly recommend this",5,positive,home
+189,"Average product, nothing special",3,neutral,home
+190,"Terrible product, broke after one use",2,negative,fashion
+191,"Average product, nothing special",3,neutral,electronics
+192,"Waste of money, not recommended",1,negative,electronics
+193,"Excellent product, very satisfied with the quality",4,positive,home
+194,Poor performance and bad design,2,negative,fashion
+195,Very disappointed with the quality,1,negative,home
+196,"Terrible product, broke after one use",2,negative,home
+197,Works perfectly and arrived quickly,5,positive,home
+198,"It's okay, does the job",3,neutral,fashion
+199,Not bad but not great either,3,neutral,home
+200,Not bad but not great either,3,neutral,home
+201,"It's okay, does the job",3,neutral,electronics
+202,"It's okay, does the job",3,neutral,fashion
+203,Customer service was awful,2,negative,electronics
+204,Decent quality for the price,3,neutral,fashion
+205,Customer service was awful,1,negative,fashion
+206,"Terrible product, broke after one use",1,negative,home
+207,It works as expected,3,neutral,fashion
+208,Very disappointed with the quality,1,negative,electronics
+209,"Amazing experience, highly recommend this",4,positive,electronics
+210,Very disappointed with the quality,1,negative,electronics
+211,"Amazing experience, highly recommend this",5,positive,home
+212,"Amazing experience, highly recommend this",5,positive,home
+213,Decent quality for the price,3,neutral,fashion
+214,"It's okay, does the job",3,neutral,home
+215,"Excellent product, very satisfied with the quality",5,positive,electronics
+216,"It's okay, does the job",3,neutral,fashion
+217,Poor performance and bad design,1,negative,electronics
+218,Poor performance and bad design,2,negative,home
+219,"Average product, nothing special",3,neutral,fashion
+220,Not bad but not great either,3,neutral,home
+221,"Excellent product, very satisfied with the quality",4,positive,electronics
+222,Decent quality for the price,3,neutral,home
+223,"It's okay, does the job",3,neutral,fashion
+224,"It's okay, does the job",3,neutral,electronics
+225,Very disappointed with the quality,2,negative,fashion
+226,Not bad but not great either,3,neutral,home
+227,"Waste of money, not recommended",2,negative,home
+228,Customer service was awful,1,negative,home
+229,"Excellent product, very satisfied with the quality",5,positive,electronics
+230,Very disappointed with the quality,2,negative,fashion
+231,Poor performance and bad design,2,negative,electronics
+232,Not bad but not great either,3,neutral,electronics
+233,Great value for money,5,positive,electronics
+234,Customer service was awful,2,negative,home
+235,"I love it, will definitely buy again",4,positive,home
+236,Decent quality for the price,3,neutral,home
+237,Poor performance and bad design,2,negative,fashion
+238,Very disappointed with the quality,2,negative,electronics
+239,Decent quality for the price,3,neutral,home
+240,"It's okay, does the job",3,neutral,fashion
+241,Very disappointed with the quality,1,negative,home
+242,Very disappointed with the quality,1,negative,electronics
+243,"Terrible product, broke after one use",2,negative,electronics
+244,"Waste of money, not recommended",2,negative,home
+245,"It's okay, does the job",3,neutral,fashion
+246,It works as expected,3,neutral,home
+247,"Average product, nothing special",3,neutral,home
+248,Works perfectly and arrived quickly,4,positive,electronics
+249,"I love it, will definitely buy again",4,positive,electronics
+250,"Excellent product, very satisfied with the quality",4,positive,home
+251,Poor performance and bad design,1,negative,fashion
+252,Great value for money,4,positive,home
+253,"Terrible product, broke after one use",2,negative,home
+254,Not bad but not great either,3,neutral,fashion
+255,"It's okay, does the job",3,neutral,electronics
+256,Not bad but not great either,3,neutral,electronics
+257,Great value for money,5,positive,home
+258,Not bad but not great either,3,neutral,fashion
+259,"I love it, will definitely buy again",4,positive,home
+260,"It's okay, does the job",3,neutral,home
+261,"Excellent product, very satisfied with the quality",5,positive,home
+262,Works perfectly and arrived quickly,4,positive,home
+263,Poor performance and bad design,1,negative,home
+264,"I love it, will definitely buy again",4,positive,fashion
+265,"Waste of money, not recommended",2,negative,home
+266,"Amazing experience, highly recommend this",5,positive,fashion
+267,Great value for money,5,positive,home
+268,Customer service was awful,1,negative,home
+269,"Excellent product, very satisfied with the quality",4,positive,electronics
+270,"Average product, nothing special",3,neutral,fashion
+271,Works perfectly and arrived quickly,4,positive,home
+272,Great value for money,4,positive,electronics
+273,"Terrible product, broke after one use",1,negative,home
+274,"Waste of money, not recommended",2,negative,home
+275,Not bad but not great either,3,neutral,home
+276,"Average product, nothing special",3,neutral,fashion
+277,Customer service was awful,2,negative,electronics
+278,"Terrible product, broke after one use",2,negative,fashion
+279,Decent quality for the price,3,neutral,electronics
+280,Very disappointed with the quality,2,negative,home
+281,It works as expected,3,neutral,home
+282,Very disappointed with the quality,2,negative,fashion
+283,Not bad but not great either,3,neutral,electronics
+284,"Waste of money, not recommended",2,negative,fashion
+285,Decent quality for the price,3,neutral,home
+286,"Amazing experience, highly recommend this",4,positive,fashion
+287,Customer service was awful,2,negative,electronics
+288,Customer service was awful,2,negative,home
+289,Great value for money,4,positive,home
+290,"Amazing experience, highly recommend this",5,positive,electronics
+291,"Terrible product, broke after one use",1,negative,fashion
+292,"Amazing experience, highly recommend this",5,positive,fashion
+293,"Excellent product, very satisfied with the quality",4,positive,electronics
+294,"Average product, nothing special",3,neutral,fashion
+295,Great value for money,4,positive,home
+296,"I love it, will definitely buy again",5,positive,home
+297,"Excellent product, very satisfied with the quality",4,positive,electronics
+298,Very disappointed with the quality,2,negative,home
+299,Very disappointed with the quality,2,negative,home
+300,"I love it, will definitely buy again",5,positive,electronics
+301,"Waste of money, not recommended",1,negative,fashion
+302,Decent quality for the price,3,neutral,fashion
+303,Very disappointed with the quality,1,negative,home
+304,"Excellent product, very satisfied with the quality",5,positive,electronics
+305,"It's okay, does the job",3,neutral,electronics
+306,Decent quality for the price,3,neutral,fashion
+307,Great value for money,4,positive,home
+308,Not bad but not great either,3,neutral,electronics
+309,It works as expected,3,neutral,home
+310,"Excellent product, very satisfied with the quality",4,positive,home
+311,Poor performance and bad design,2,negative,electronics
+312,"It's okay, does the job",3,neutral,fashion
+313,"Excellent product, very satisfied with the quality",4,positive,fashion
+314,Customer service was awful,1,negative,electronics
+315,"It's okay, does the job",3,neutral,home
+316,"Excellent product, very satisfied with the quality",4,positive,electronics
+317,Very disappointed with the quality,2,negative,electronics
+318,"Excellent product, very satisfied with the quality",4,positive,home
+319,Customer service was awful,1,negative,fashion
+320,Very disappointed with the quality,1,negative,fashion
+321,"Terrible product, broke after one use",2,negative,electronics
+322,"Terrible product, broke after one use",1,negative,fashion
+323,Customer service was awful,2,negative,home
+324,Decent quality for the price,3,neutral,home
+325,"Terrible product, broke after one use",2,negative,fashion
+326,"It's okay, does the job",3,neutral,fashion
+327,Not bad but not great either,3,neutral,fashion
+328,"Waste of money, not recommended",1,negative,fashion
+329,"Average product, nothing special",3,neutral,electronics
+330,Customer service was awful,2,negative,home
+331,Not bad but not great either,3,neutral,electronics
+332,Works perfectly and arrived quickly,4,positive,home
+333,Very disappointed with the quality,2,negative,fashion
+334,"I love it, will definitely buy again",5,positive,electronics
+335,"Average product, nothing special",3,neutral,fashion
+336,Not bad but not great either,3,neutral,electronics
+337,"It's okay, does the job",3,neutral,fashion
+338,"Average product, nothing special",3,neutral,electronics
+339,"Terrible product, broke after one use",1,negative,home
+340,Not bad but not great either,3,neutral,home
+341,"Average product, nothing special",3,neutral,fashion
+342,"I love it, will definitely buy again",5,positive,electronics
+343,"Average product, nothing special",3,neutral,home
+344,"Terrible product, broke after one use",1,negative,electronics
+345,"Amazing experience, highly recommend this",5,positive,fashion
+346,"Average product, nothing special",3,neutral,electronics
+347,"Terrible product, broke after one use",2,negative,electronics
+348,Poor performance and bad design,1,negative,electronics
+349,Very disappointed with the quality,2,negative,electronics
+350,"I love it, will definitely buy again",5,positive,electronics
+351,Not bad but not great either,3,neutral,fashion
+352,Works perfectly and arrived quickly,4,positive,home
+353,Decent quality for the price,3,neutral,home
+354,Poor performance and bad design,2,negative,fashion
+355,Very disappointed with the quality,1,negative,fashion
+356,"Amazing experience, highly recommend this",5,positive,home
+357,Great value for money,4,positive,fashion
+358,Customer service was awful,1,negative,fashion
+359,"Waste of money, not recommended",1,negative,fashion
+360,It works as expected,3,neutral,electronics
+361,"Terrible product, broke after one use",1,negative,home
+362,"Terrible product, broke after one use",2,negative,fashion
+363,Decent quality for the price,3,neutral,home
+364,"Terrible product, broke after one use",1,negative,electronics
+365,"Average product, nothing special",3,neutral,fashion
+366,"Terrible product, broke after one use",1,negative,electronics
+367,"Excellent product, very satisfied with the quality",4,positive,electronics
+368,"Waste of money, not recommended",1,negative,home
+369,Poor performance and bad design,2,negative,fashion
+370,"Waste of money, not recommended",2,negative,fashion
+371,"I love it, will definitely buy again",4,positive,electronics
+372,"Amazing experience, highly recommend this",4,positive,electronics
+373,Decent quality for the price,3,neutral,home
+374,Not bad but not great either,3,neutral,home
+375,Very disappointed with the quality,2,negative,home
+376,Decent quality for the price,3,neutral,home
+377,Great value for money,4,positive,fashion
+378,"Average product, nothing special",3,neutral,home
+379,"I love it, will definitely buy again",5,positive,fashion
+380,"I love it, will definitely buy again",4,positive,electronics
+381,It works as expected,3,neutral,electronics
+382,"Terrible product, broke after one use",1,negative,home
+383,"Waste of money, not recommended",2,negative,fashion
+384,"Waste of money, not recommended",1,negative,home
+385,"Excellent product, very satisfied with the quality",5,positive,electronics
+386,Very disappointed with the quality,1,negative,home
+387,It works as expected,3,neutral,fashion
+388,Great value for money,5,positive,fashion
+389,Customer service was awful,2,negative,electronics
+390,Poor performance and bad design,1,negative,electronics
+391,Poor performance and bad design,1,negative,electronics
+392,Very disappointed with the quality,2,negative,electronics
+393,Decent quality for the price,3,neutral,home
+394,"Excellent product, very satisfied with the quality",5,positive,home
+395,Works perfectly and arrived quickly,4,positive,electronics
+396,"Waste of money, not recommended",1,negative,electronics
+397,"Terrible product, broke after one use",2,negative,electronics
+398,Poor performance and bad design,1,negative,home
+399,Poor performance and bad design,1,negative,fashion
+400,Not bad but not great either,3,neutral,fashion
+401,"Average product, nothing special",3,neutral,electronics
+402,"Terrible product, broke after one use",1,negative,electronics
+403,Very disappointed with the quality,2,negative,fashion
+404,"I love it, will definitely buy again",5,positive,home
+405,"It's okay, does the job",3,neutral,home
+406,"Terrible product, broke after one use",2,negative,home
+407,Works perfectly and arrived quickly,5,positive,home
+408,Great value for money,4,positive,electronics
+409,Not bad but not great either,3,neutral,home
+410,"Average product, nothing special",3,neutral,fashion
+411,"Average product, nothing special",3,neutral,electronics
+412,Not bad but not great either,3,neutral,fashion
+413,Works perfectly and arrived quickly,5,positive,home
+414,"Waste of money, not recommended",2,negative,fashion
+415,Works perfectly and arrived quickly,4,positive,electronics
+416,"It's okay, does the job",3,neutral,fashion
+417,Decent quality for the price,3,neutral,electronics
+418,It works as expected,3,neutral,fashion
+419,Works perfectly and arrived quickly,4,positive,fashion
+420,Very disappointed with the quality,2,negative,fashion
+421,"Terrible product, broke after one use",2,negative,home
+422,"Terrible product, broke after one use",2,negative,home
+423,"Amazing experience, highly recommend this",5,positive,electronics
+424,"Average product, nothing special",3,neutral,home
+425,Customer service was awful,2,negative,home
+426,"It's okay, does the job",3,neutral,fashion
+427,"Terrible product, broke after one use",1,negative,home
+428,"Excellent product, very satisfied with the quality",5,positive,fashion
+429,Not bad but not great either,3,neutral,electronics
+430,"I love it, will definitely buy again",5,positive,home
+431,Poor performance and bad design,2,negative,electronics
+432,"I love it, will definitely buy again",5,positive,home
+433,Poor performance and bad design,1,negative,electronics
+434,"Terrible product, broke after one use",1,negative,fashion
+435,"Terrible product, broke after one use",2,negative,fashion
+436,"Terrible product, broke after one use",1,negative,home
+437,Customer service was awful,1,negative,electronics
+438,"Excellent product, very satisfied with the quality",5,positive,electronics
+439,"I love it, will definitely buy again",5,positive,home
+440,It works as expected,3,neutral,electronics
+441,Decent quality for the price,3,neutral,electronics
+442,"I love it, will definitely buy again",5,positive,electronics
+443,"Excellent product, very satisfied with the quality",4,positive,home
+444,"Average product, nothing special",3,neutral,home
+445,Great value for money,4,positive,home
+446,"I love it, will definitely buy again",4,positive,fashion
+447,Very disappointed with the quality,2,negative,fashion
+448,It works as expected,3,neutral,electronics
+449,Great value for money,5,positive,electronics
+450,Works perfectly and arrived quickly,4,positive,fashion
+451,Poor performance and bad design,1,negative,electronics
+452,"It's okay, does the job",3,neutral,fashion
+453,"Waste of money, not recommended",1,negative,electronics
+454,"I love it, will definitely buy again",4,positive,electronics
+455,"Terrible product, broke after one use",1,negative,home
+456,"Average product, nothing special",3,neutral,electronics
+457,"Waste of money, not recommended",2,negative,home
+458,"Excellent product, very satisfied with the quality",4,positive,electronics
+459,Not bad but not great either,3,neutral,electronics
+460,"Average product, nothing special",3,neutral,electronics
+461,"Excellent product, very satisfied with the quality",5,positive,fashion
+462,"Terrible product, broke after one use",2,negative,fashion
+463,"Average product, nothing special",3,neutral,home
+464,It works as expected,3,neutral,electronics
+465,Very disappointed with the quality,2,negative,electronics
+466,Customer service was awful,1,negative,electronics
+467,Customer service was awful,1,negative,home
+468,Customer service was awful,1,negative,fashion
+469,Decent quality for the price,3,neutral,fashion
+470,"Amazing experience, highly recommend this",4,positive,electronics
+471,Very disappointed with the quality,1,negative,home
+472,Works perfectly and arrived quickly,4,positive,electronics
+473,Decent quality for the price,3,neutral,electronics
+474,"I love it, will definitely buy again",4,positive,fashion
+475,"Waste of money, not recommended",2,negative,electronics
+476,Very disappointed with the quality,2,negative,home
+477,Great value for money,5,positive,home
+478,Very disappointed with the quality,1,negative,home
+479,Works perfectly and arrived quickly,5,positive,home
+480,Not bad but not great either,3,neutral,home
+481,Great value for money,5,positive,home
+482,"It's okay, does the job",3,neutral,home
+483,"It's okay, does the job",3,neutral,electronics
+484,Customer service was awful,2,negative,electronics
+485,Works perfectly and arrived quickly,4,positive,fashion
+486,Customer service was awful,2,negative,electronics
+487,Not bad but not great either,3,neutral,fashion
+488,Great value for money,5,positive,electronics
+489,Great value for money,4,positive,fashion
+490,"Average product, nothing special",3,neutral,fashion
+491,Not bad but not great either,3,neutral,fashion
+492,"It's okay, does the job",3,neutral,electronics
+493,"Waste of money, not recommended",2,negative,home
+494,Works perfectly and arrived quickly,4,positive,fashion
+495,Customer service was awful,1,negative,fashion
+496,"Excellent product, very satisfied with the quality",5,positive,electronics
+497,Not bad but not great either,3,neutral,electronics
+498,It works as expected,3,neutral,home
+499,"Waste of money, not recommended",1,negative,home
+500,Decent quality for the price,3,neutral,fashion

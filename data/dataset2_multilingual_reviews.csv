@@ -1,0 +1,1001 @@
+review_id,text,language,rating,sentiment,product_category
+1,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+2,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+3,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+4,ضياع الفلوس,DAR,1,negative,electronics
+5,"Produit excellent, très satisfait",FR,5,positive,home
+6,"Excellent product, very satisfied",EN,5,positive,electronics
+7,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+8,Perte d'argent,FR,1,negative,fashion
+9,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+10,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+11,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+12,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+13,Waste of money,EN,1,negative,home
+14,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+15,"Terrible experience, not recommended",EN,1,negative,electronics
+16,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+17,ضياع الفلوس,DAR,1,negative,home
+18,"Terrible experience, not recommended",EN,1,negative,home
+19,Perte d'argent,FR,1,negative,electronics
+20,"Excellent product, very satisfied",EN,5,positive,fashion
+21,"C'est moyen, qualité correcte",FR,3,neutral,home
+22,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+23,Waste of money,EN,1,negative,home
+24,Great value for money,EN,5,positive,fashion
+25,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+26,"It's okay, average quality",EN,3,neutral,fashion
+27,"It's okay, average quality",EN,3,neutral,home
+28,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+29,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+30,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+31,Très bon rapport qualité prix,FR,5,positive,electronics
+32,Waste of money,EN,1,negative,home
+33,Waste of money,EN,1,negative,electronics
+34,Très mauvaise expérience,FR,1,negative,fashion
+35,"It's okay, average quality",EN,3,neutral,fashion
+36,"Terrible experience, not recommended",EN,1,negative,fashion
+37,Waste of money,EN,1,negative,electronics
+38,Très bon rapport qualité prix,FR,5,positive,fashion
+39,"C'est moyen, qualité correcte",FR,3,neutral,home
+40,Très mauvaise expérience,FR,1,negative,electronics
+41,Great value for money,EN,5,positive,fashion
+42,Perte d'argent,FR,1,negative,fashion
+43,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+44,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+45,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+46,"Excellent product, very satisfied",EN,5,positive,electronics
+47,"Excellent product, very satisfied",EN,5,positive,fashion
+48,Great value for money,EN,5,positive,fashion
+49,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+50,Waste of money,EN,1,negative,fashion
+51,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+52,"Terrible experience, not recommended",EN,1,negative,fashion
+53,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+54,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+55,منتوج زوين بزاف عجبني,DAR,5,positive,home
+56,Perte d'argent,FR,1,negative,electronics
+57,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+58,Perte d'argent,FR,1,negative,fashion
+59,Waste of money,EN,1,negative,electronics
+60,ضياع الفلوس,DAR,1,negative,electronics
+61,منتوج زوين بزاف عجبني,DAR,5,positive,home
+62,"It's okay, average quality",EN,3,neutral,fashion
+63,Perte d'argent,FR,1,negative,home
+64,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+65,Très bon rapport qualité prix,FR,5,positive,electronics
+66,Très bon rapport qualité prix,FR,5,positive,electronics
+67,"Terrible experience, not recommended",EN,1,negative,fashion
+68,Great value for money,EN,5,positive,electronics
+69,"It's okay, average quality",EN,3,neutral,fashion
+70,منتوج زوين بزاف عجبني,DAR,5,positive,home
+71,"Excellent product, very satisfied",EN,5,positive,electronics
+72,"Excellent product, very satisfied",EN,5,positive,fashion
+73,Perte d'argent,FR,1,negative,fashion
+74,Great value for money,EN,5,positive,fashion
+75,Très bon rapport qualité prix,FR,5,positive,fashion
+76,Très bon rapport qualité prix,FR,5,positive,home
+77,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+78,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+79,"Excellent product, very satisfied",EN,5,positive,home
+80,"Produit excellent, très satisfait",FR,5,positive,home
+81,Great value for money,EN,5,positive,fashion
+82,ضياع الفلوس,DAR,1,negative,electronics
+83,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+84,Waste of money,EN,1,negative,electronics
+85,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+86,"Excellent product, very satisfied",EN,5,positive,electronics
+87,Très mauvaise expérience,FR,1,negative,home
+88,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+89,"Produit excellent, très satisfait",FR,5,positive,home
+90,"It's okay, average quality",EN,3,neutral,home
+91,Très bon rapport qualité prix,FR,5,positive,fashion
+92,Perte d'argent,FR,1,negative,home
+93,"Excellent product, very satisfied",EN,5,positive,fashion
+94,Très bon rapport qualité prix,FR,5,positive,home
+95,"It's okay, average quality",EN,3,neutral,fashion
+96,Perte d'argent,FR,1,negative,electronics
+97,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+98,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+99,Très bon rapport qualité prix,FR,5,positive,electronics
+100,ضياع الفلوس,DAR,1,negative,home
+101,Great value for money,EN,5,positive,fashion
+102,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+103,"Produit excellent, très satisfait",FR,5,positive,home
+104,"Excellent product, very satisfied",EN,5,positive,home
+105,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+106,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+107,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+108,Très bon rapport qualité prix,FR,5,positive,electronics
+109,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+110,Perte d'argent,FR,1,negative,electronics
+111,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+112,Très mauvaise expérience,FR,1,negative,electronics
+113,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+114,Perte d'argent,FR,1,negative,electronics
+115,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+116,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+117,Great value for money,EN,5,positive,fashion
+118,Très bon rapport qualité prix,FR,5,positive,electronics
+119,Perte d'argent,FR,1,negative,electronics
+120,"Terrible experience, not recommended",EN,1,negative,home
+121,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+122,Perte d'argent,FR,1,negative,fashion
+123,Waste of money,EN,1,negative,electronics
+124,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+125,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+126,"Produit excellent, très satisfait",FR,5,positive,electronics
+127,Perte d'argent,FR,1,negative,home
+128,"Produit excellent, très satisfait",FR,5,positive,electronics
+129,Waste of money,EN,1,negative,home
+130,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+131,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+132,Perte d'argent,FR,1,negative,electronics
+133,"Produit excellent, très satisfait",FR,5,positive,fashion
+134,Très bon rapport qualité prix,FR,5,positive,fashion
+135,"Terrible experience, not recommended",EN,1,negative,home
+136,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+137,Très mauvaise expérience,FR,1,negative,fashion
+138,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+139,Perte d'argent,FR,1,negative,home
+140,Très mauvaise expérience,FR,1,negative,fashion
+141,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+142,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+143,"Terrible experience, not recommended",EN,1,negative,home
+144,"Excellent product, very satisfied",EN,5,positive,electronics
+145,ضياع الفلوس,DAR,1,negative,fashion
+146,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+147,Waste of money,EN,1,negative,electronics
+148,"It's okay, average quality",EN,3,neutral,fashion
+149,Perte d'argent,FR,1,negative,fashion
+150,"Produit excellent, très satisfait",FR,5,positive,fashion
+151,Waste of money,EN,1,negative,home
+152,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+153,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+154,"Produit excellent, très satisfait",FR,5,positive,home
+155,منتوج زوين بزاف عجبني,DAR,5,positive,home
+156,منتوج زوين بزاف عجبني,DAR,5,positive,home
+157,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+158,Très bon rapport qualité prix,FR,5,positive,electronics
+159,Très mauvaise expérience,FR,1,negative,electronics
+160,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+161,"Excellent product, very satisfied",EN,5,positive,fashion
+162,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+163,منتوج زوين بزاف عجبني,DAR,5,positive,home
+164,"C'est moyen, qualité correcte",FR,3,neutral,home
+165,"Terrible experience, not recommended",EN,1,negative,electronics
+166,"It's okay, average quality",EN,3,neutral,fashion
+167,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+168,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+169,"Terrible experience, not recommended",EN,1,negative,electronics
+170,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+171,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+172,"C'est moyen, qualité correcte",FR,3,neutral,home
+173,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+174,"C'est moyen, qualité correcte",FR,3,neutral,home
+175,Très mauvaise expérience,FR,1,negative,electronics
+176,ضياع الفلوس,DAR,1,negative,electronics
+177,ضياع الفلوس,DAR,1,negative,home
+178,Très bon rapport qualité prix,FR,5,positive,electronics
+179,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+180,Très bon rapport qualité prix,FR,5,positive,fashion
+181,"Excellent product, very satisfied",EN,5,positive,home
+182,Great value for money,EN,5,positive,home
+183,Great value for money,EN,5,positive,home
+184,منتوج زوين بزاف عجبني,DAR,5,positive,home
+185,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+186,Waste of money,EN,1,negative,fashion
+187,Great value for money,EN,5,positive,electronics
+188,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+189,ضياع الفلوس,DAR,1,negative,home
+190,Perte d'argent,FR,1,negative,electronics
+191,"Produit excellent, très satisfait",FR,5,positive,electronics
+192,"It's okay, average quality",EN,3,neutral,home
+193,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+194,"Terrible experience, not recommended",EN,1,negative,home
+195,ضياع الفلوس,DAR,1,negative,home
+196,"Excellent product, very satisfied",EN,5,positive,home
+197,"It's okay, average quality",EN,3,neutral,fashion
+198,Perte d'argent,FR,1,negative,fashion
+199,"C'est moyen, qualité correcte",FR,3,neutral,home
+200,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+201,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+202,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+203,ضياع الفلوس,DAR,1,negative,fashion
+204,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+205,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+206,Très mauvaise expérience,FR,1,negative,electronics
+207,"Produit excellent, très satisfait",FR,5,positive,fashion
+208,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+209,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+210,Très bon rapport qualité prix,FR,5,positive,electronics
+211,ضياع الفلوس,DAR,1,negative,fashion
+212,Très mauvaise expérience,FR,1,negative,fashion
+213,Très mauvaise expérience,FR,1,negative,home
+214,"Excellent product, very satisfied",EN,5,positive,electronics
+215,ضياع الفلوس,DAR,1,negative,home
+216,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+217,"Produit excellent, très satisfait",FR,5,positive,home
+218,"Terrible experience, not recommended",EN,1,negative,home
+219,"It's okay, average quality",EN,3,neutral,electronics
+220,Waste of money,EN,1,negative,fashion
+221,منتوج زوين بزاف عجبني,DAR,5,positive,home
+222,"Produit excellent, très satisfait",FR,5,positive,home
+223,Très mauvaise expérience,FR,1,negative,fashion
+224,Great value for money,EN,5,positive,home
+225,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+226,Très bon rapport qualité prix,FR,5,positive,home
+227,"Produit excellent, très satisfait",FR,5,positive,home
+228,Très bon rapport qualité prix,FR,5,positive,fashion
+229,Très bon rapport qualité prix,FR,5,positive,electronics
+230,"It's okay, average quality",EN,3,neutral,home
+231,Waste of money,EN,1,negative,fashion
+232,Perte d'argent,FR,1,negative,fashion
+233,"Produit excellent, très satisfait",FR,5,positive,electronics
+234,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+235,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+236,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+237,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+238,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+239,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+240,"It's okay, average quality",EN,3,neutral,fashion
+241,ضياع الفلوس,DAR,1,negative,home
+242,Très bon rapport qualité prix,FR,5,positive,home
+243,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+244,Great value for money,EN,5,positive,electronics
+245,Perte d'argent,FR,1,negative,electronics
+246,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+247,"Excellent product, very satisfied",EN,5,positive,home
+248,منتوج زوين بزاف عجبني,DAR,5,positive,home
+249,Great value for money,EN,5,positive,electronics
+250,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+251,"It's okay, average quality",EN,3,neutral,home
+252,"Excellent product, very satisfied",EN,5,positive,fashion
+253,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+254,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+255,"C'est moyen, qualité correcte",FR,3,neutral,home
+256,ضياع الفلوس,DAR,1,negative,fashion
+257,"Terrible experience, not recommended",EN,1,negative,home
+258,Très bon rapport qualité prix,FR,5,positive,fashion
+259,Très bon rapport qualité prix,FR,5,positive,fashion
+260,"It's okay, average quality",EN,3,neutral,home
+261,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+262,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+263,Waste of money,EN,1,negative,electronics
+264,"Terrible experience, not recommended",EN,1,negative,home
+265,"Terrible experience, not recommended",EN,1,negative,electronics
+266,"Produit excellent, très satisfait",FR,5,positive,electronics
+267,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+268,"Terrible experience, not recommended",EN,1,negative,fashion
+269,Waste of money,EN,1,negative,fashion
+270,ضياع الفلوس,DAR,1,negative,home
+271,Waste of money,EN,1,negative,electronics
+272,"Excellent product, very satisfied",EN,5,positive,fashion
+273,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+274,Très bon rapport qualité prix,FR,5,positive,fashion
+275,Perte d'argent,FR,1,negative,electronics
+276,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+277,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+278,"Produit excellent, très satisfait",FR,5,positive,home
+279,Perte d'argent,FR,1,negative,fashion
+280,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+281,"It's okay, average quality",EN,3,neutral,electronics
+282,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+283,ضياع الفلوس,DAR,1,negative,fashion
+284,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+285,"It's okay, average quality",EN,3,neutral,home
+286,Très mauvaise expérience,FR,1,negative,fashion
+287,Perte d'argent,FR,1,negative,fashion
+288,Perte d'argent,FR,1,negative,home
+289,"Produit excellent, très satisfait",FR,5,positive,electronics
+290,Waste of money,EN,1,negative,fashion
+291,"Terrible experience, not recommended",EN,1,negative,electronics
+292,Perte d'argent,FR,1,negative,home
+293,Perte d'argent,FR,1,negative,electronics
+294,"Terrible experience, not recommended",EN,1,negative,home
+295,Perte d'argent,FR,1,negative,home
+296,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+297,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+298,Great value for money,EN,5,positive,fashion
+299,Très bon rapport qualité prix,FR,5,positive,fashion
+300,Très mauvaise expérience,FR,1,negative,fashion
+301,"It's okay, average quality",EN,3,neutral,home
+302,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+303,Perte d'argent,FR,1,negative,home
+304,"Produit excellent, très satisfait",FR,5,positive,fashion
+305,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+306,ضياع الفلوس,DAR,1,negative,fashion
+307,"It's okay, average quality",EN,3,neutral,fashion
+308,Très mauvaise expérience,FR,1,negative,electronics
+309,Très bon rapport qualité prix,FR,5,positive,electronics
+310,Waste of money,EN,1,negative,fashion
+311,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+312,Great value for money,EN,5,positive,fashion
+313,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+314,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+315,"Produit excellent, très satisfait",FR,5,positive,home
+316,Perte d'argent,FR,1,negative,electronics
+317,Très mauvaise expérience,FR,1,negative,electronics
+318,Très bon rapport qualité prix,FR,5,positive,home
+319,"It's okay, average quality",EN,3,neutral,fashion
+320,"It's okay, average quality",EN,3,neutral,fashion
+321,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+322,ضياع الفلوس,DAR,1,negative,home
+323,"Produit excellent, très satisfait",FR,5,positive,fashion
+324,Great value for money,EN,5,positive,electronics
+325,"Terrible experience, not recommended",EN,1,negative,home
+326,"Terrible experience, not recommended",EN,1,negative,electronics
+327,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+328,Great value for money,EN,5,positive,home
+329,Très bon rapport qualité prix,FR,5,positive,fashion
+330,Perte d'argent,FR,1,negative,electronics
+331,"Produit excellent, très satisfait",FR,5,positive,home
+332,"It's okay, average quality",EN,3,neutral,fashion
+333,ضياع الفلوس,DAR,1,negative,home
+334,"Produit excellent, très satisfait",FR,5,positive,fashion
+335,Très mauvaise expérience,FR,1,negative,home
+336,Très bon rapport qualité prix,FR,5,positive,fashion
+337,"Excellent product, very satisfied",EN,5,positive,home
+338,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+339,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+340,"Excellent product, very satisfied",EN,5,positive,fashion
+341,"It's okay, average quality",EN,3,neutral,electronics
+342,"Produit excellent, très satisfait",FR,5,positive,fashion
+343,Très mauvaise expérience,FR,1,negative,electronics
+344,Great value for money,EN,5,positive,fashion
+345,Great value for money,EN,5,positive,fashion
+346,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+347,Très bon rapport qualité prix,FR,5,positive,home
+348,Très mauvaise expérience,FR,1,negative,home
+349,"Excellent product, very satisfied",EN,5,positive,electronics
+350,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+351,"Excellent product, very satisfied",EN,5,positive,fashion
+352,"Produit excellent, très satisfait",FR,5,positive,fashion
+353,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+354,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+355,"Terrible experience, not recommended",EN,1,negative,home
+356,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+357,Très mauvaise expérience,FR,1,negative,fashion
+358,ضياع الفلوس,DAR,1,negative,home
+359,Waste of money,EN,1,negative,fashion
+360,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+361,منتوج زوين بزاف عجبني,DAR,5,positive,home
+362,ضياع الفلوس,DAR,1,negative,electronics
+363,ضياع الفلوس,DAR,1,negative,home
+364,ضياع الفلوس,DAR,1,negative,electronics
+365,"C'est moyen, qualité correcte",FR,3,neutral,home
+366,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+367,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+368,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+369,"Excellent product, very satisfied",EN,5,positive,home
+370,Très bon rapport qualité prix,FR,5,positive,fashion
+371,Perte d'argent,FR,1,negative,home
+372,ضياع الفلوس,DAR,1,negative,electronics
+373,Très mauvaise expérience,FR,1,negative,electronics
+374,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+375,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+376,Waste of money,EN,1,negative,electronics
+377,Great value for money,EN,5,positive,fashion
+378,Perte d'argent,FR,1,negative,home
+379,Très bon rapport qualité prix,FR,5,positive,home
+380,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+381,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+382,Perte d'argent,FR,1,negative,fashion
+383,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+384,ضياع الفلوس,DAR,1,negative,home
+385,Très mauvaise expérience,FR,1,negative,home
+386,"Produit excellent, très satisfait",FR,5,positive,fashion
+387,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+388,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+389,Perte d'argent,FR,1,negative,home
+390,Waste of money,EN,1,negative,home
+391,"C'est moyen, qualité correcte",FR,3,neutral,home
+392,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+393,Waste of money,EN,1,negative,electronics
+394,Waste of money,EN,1,negative,fashion
+395,Très bon rapport qualité prix,FR,5,positive,home
+396,"Produit excellent, très satisfait",FR,5,positive,fashion
+397,Très bon rapport qualité prix,FR,5,positive,electronics
+398,Très mauvaise expérience,FR,1,negative,home
+399,منتوج زوين بزاف عجبني,DAR,5,positive,home
+400,"Produit excellent, très satisfait",FR,5,positive,fashion
+401,"It's okay, average quality",EN,3,neutral,home
+402,ضياع الفلوس,DAR,1,negative,home
+403,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+404,Perte d'argent,FR,1,negative,fashion
+405,Great value for money,EN,5,positive,fashion
+406,Waste of money,EN,1,negative,home
+407,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+408,Great value for money,EN,5,positive,fashion
+409,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+410,Great value for money,EN,5,positive,home
+411,"It's okay, average quality",EN,3,neutral,electronics
+412,"It's okay, average quality",EN,3,neutral,fashion
+413,ضياع الفلوس,DAR,1,negative,fashion
+414,"It's okay, average quality",EN,3,neutral,electronics
+415,Très mauvaise expérience,FR,1,negative,home
+416,Perte d'argent,FR,1,negative,home
+417,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+418,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+419,"Terrible experience, not recommended",EN,1,negative,electronics
+420,"Produit excellent, très satisfait",FR,5,positive,electronics
+421,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+422,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+423,ضياع الفلوس,DAR,1,negative,home
+424,"C'est moyen, qualité correcte",FR,3,neutral,home
+425,"It's okay, average quality",EN,3,neutral,home
+426,Très mauvaise expérience,FR,1,negative,home
+427,Très bon rapport qualité prix,FR,5,positive,home
+428,"It's okay, average quality",EN,3,neutral,fashion
+429,Très mauvaise expérience,FR,1,negative,fashion
+430,"It's okay, average quality",EN,3,neutral,electronics
+431,ضياع الفلوس,DAR,1,negative,fashion
+432,Waste of money,EN,1,negative,home
+433,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+434,"It's okay, average quality",EN,3,neutral,electronics
+435,Perte d'argent,FR,1,negative,home
+436,منتوج زوين بزاف عجبني,DAR,5,positive,home
+437,Perte d'argent,FR,1,negative,home
+438,"Produit excellent, très satisfait",FR,5,positive,home
+439,"It's okay, average quality",EN,3,neutral,home
+440,Great value for money,EN,5,positive,fashion
+441,"Terrible experience, not recommended",EN,1,negative,electronics
+442,Great value for money,EN,5,positive,home
+443,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+444,"Produit excellent, très satisfait",FR,5,positive,electronics
+445,Très mauvaise expérience,FR,1,negative,fashion
+446,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+447,"Terrible experience, not recommended",EN,1,negative,home
+448,Great value for money,EN,5,positive,electronics
+449,منتوج زوين بزاف عجبني,DAR,5,positive,home
+450,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+451,Great value for money,EN,5,positive,home
+452,Perte d'argent,FR,1,negative,electronics
+453,Très mauvaise expérience,FR,1,negative,fashion
+454,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+455,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+456,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+457,"It's okay, average quality",EN,3,neutral,electronics
+458,Great value for money,EN,5,positive,home
+459,Waste of money,EN,1,negative,home
+460,Great value for money,EN,5,positive,home
+461,"Excellent product, very satisfied",EN,5,positive,home
+462,Très bon rapport qualité prix,FR,5,positive,fashion
+463,ضياع الفلوس,DAR,1,negative,electronics
+464,"It's okay, average quality",EN,3,neutral,fashion
+465,Great value for money,EN,5,positive,fashion
+466,ضياع الفلوس,DAR,1,negative,electronics
+467,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+468,Très bon rapport qualité prix,FR,5,positive,fashion
+469,Waste of money,EN,1,negative,electronics
+470,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+471,Perte d'argent,FR,1,negative,electronics
+472,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+473,Perte d'argent,FR,1,negative,fashion
+474,"Terrible experience, not recommended",EN,1,negative,fashion
+475,ضياع الفلوس,DAR,1,negative,fashion
+476,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+477,ضياع الفلوس,DAR,1,negative,fashion
+478,منتوج زوين بزاف عجبني,DAR,5,positive,home
+479,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+480,"Excellent product, very satisfied",EN,5,positive,home
+481,"Excellent product, very satisfied",EN,5,positive,electronics
+482,"Terrible experience, not recommended",EN,1,negative,home
+483,Perte d'argent,FR,1,negative,fashion
+484,Très bon rapport qualité prix,FR,5,positive,electronics
+485,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+486,Waste of money,EN,1,negative,home
+487,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+488,"Terrible experience, not recommended",EN,1,negative,home
+489,"Produit excellent, très satisfait",FR,5,positive,electronics
+490,Très mauvaise expérience,FR,1,negative,home
+491,Waste of money,EN,1,negative,fashion
+492,Très mauvaise expérience,FR,1,negative,home
+493,"Produit excellent, très satisfait",FR,5,positive,electronics
+494,Waste of money,EN,1,negative,electronics
+495,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+496,"Produit excellent, très satisfait",FR,5,positive,home
+497,Great value for money,EN,5,positive,home
+498,"It's okay, average quality",EN,3,neutral,home
+499,منتوج زوين بزاف عجبني,DAR,5,positive,home
+500,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+501,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+502,Great value for money,EN,5,positive,home
+503,Très mauvaise expérience,FR,1,negative,fashion
+504,ضياع الفلوس,DAR,1,negative,fashion
+505,Waste of money,EN,1,negative,fashion
+506,"Excellent product, very satisfied",EN,5,positive,fashion
+507,ضياع الفلوس,DAR,1,negative,electronics
+508,"Produit excellent, très satisfait",FR,5,positive,electronics
+509,Waste of money,EN,1,negative,electronics
+510,"Produit excellent, très satisfait",FR,5,positive,electronics
+511,ضياع الفلوس,DAR,1,negative,fashion
+512,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+513,"Excellent product, very satisfied",EN,5,positive,home
+514,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+515,"Produit excellent, très satisfait",FR,5,positive,home
+516,ضياع الفلوس,DAR,1,negative,fashion
+517,Waste of money,EN,1,negative,fashion
+518,Très bon rapport qualité prix,FR,5,positive,home
+519,ضياع الفلوس,DAR,1,negative,home
+520,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+521,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+522,Perte d'argent,FR,1,negative,fashion
+523,Waste of money,EN,1,negative,home
+524,Très mauvaise expérience,FR,1,negative,home
+525,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+526,Très mauvaise expérience,FR,1,negative,home
+527,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+528,"Excellent product, very satisfied",EN,5,positive,home
+529,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+530,Perte d'argent,FR,1,negative,home
+531,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+532,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+533,"Terrible experience, not recommended",EN,1,negative,electronics
+534,منتوج زوين بزاف عجبني,DAR,5,positive,home
+535,Perte d'argent,FR,1,negative,home
+536,Perte d'argent,FR,1,negative,electronics
+537,Waste of money,EN,1,negative,fashion
+538,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+539,"It's okay, average quality",EN,3,neutral,fashion
+540,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+541,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+542,"Excellent product, very satisfied",EN,5,positive,fashion
+543,"Produit excellent, très satisfait",FR,5,positive,electronics
+544,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+545,Très bon rapport qualité prix,FR,5,positive,home
+546,Très mauvaise expérience,FR,1,negative,home
+547,Perte d'argent,FR,1,negative,home
+548,Très mauvaise expérience,FR,1,negative,electronics
+549,Très bon rapport qualité prix,FR,5,positive,home
+550,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+551,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+552,"Excellent product, very satisfied",EN,5,positive,electronics
+553,Great value for money,EN,5,positive,fashion
+554,"Terrible experience, not recommended",EN,1,negative,electronics
+555,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+556,Perte d'argent,FR,1,negative,electronics
+557,"It's okay, average quality",EN,3,neutral,fashion
+558,Très bon rapport qualité prix,FR,5,positive,fashion
+559,Great value for money,EN,5,positive,home
+560,Très mauvaise expérience,FR,1,negative,electronics
+561,"Terrible experience, not recommended",EN,1,negative,electronics
+562,"Terrible experience, not recommended",EN,1,negative,fashion
+563,"Produit excellent, très satisfait",FR,5,positive,fashion
+564,Great value for money,EN,5,positive,electronics
+565,"Terrible experience, not recommended",EN,1,negative,fashion
+566,Très bon rapport qualité prix,FR,5,positive,electronics
+567,"It's okay, average quality",EN,3,neutral,fashion
+568,Great value for money,EN,5,positive,electronics
+569,Great value for money,EN,5,positive,electronics
+570,ضياع الفلوس,DAR,1,negative,home
+571,"It's okay, average quality",EN,3,neutral,home
+572,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+573,ضياع الفلوس,DAR,1,negative,electronics
+574,Great value for money,EN,5,positive,electronics
+575,Great value for money,EN,5,positive,fashion
+576,"It's okay, average quality",EN,3,neutral,electronics
+577,"Terrible experience, not recommended",EN,1,negative,home
+578,Great value for money,EN,5,positive,home
+579,Great value for money,EN,5,positive,electronics
+580,"Terrible experience, not recommended",EN,1,negative,home
+581,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+582,ضياع الفلوس,DAR,1,negative,home
+583,ضياع الفلوس,DAR,1,negative,fashion
+584,Très bon rapport qualité prix,FR,5,positive,electronics
+585,"It's okay, average quality",EN,3,neutral,electronics
+586,Great value for money,EN,5,positive,home
+587,Great value for money,EN,5,positive,home
+588,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+589,"C'est moyen, qualité correcte",FR,3,neutral,home
+590,منتوج زوين بزاف عجبني,DAR,5,positive,home
+591,"Produit excellent, très satisfait",FR,5,positive,electronics
+592,Perte d'argent,FR,1,negative,home
+593,"Excellent product, very satisfied",EN,5,positive,home
+594,Perte d'argent,FR,1,negative,fashion
+595,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+596,Perte d'argent,FR,1,negative,fashion
+597,Waste of money,EN,1,negative,electronics
+598,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+599,"C'est moyen, qualité correcte",FR,3,neutral,home
+600,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+601,منتوج زوين بزاف عجبني,DAR,5,positive,home
+602,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+603,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+604,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+605,"Produit excellent, très satisfait",FR,5,positive,fashion
+606,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+607,Très mauvaise expérience,FR,1,negative,home
+608,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+609,"C'est moyen, qualité correcte",FR,3,neutral,home
+610,Waste of money,EN,1,negative,electronics
+611,Waste of money,EN,1,negative,electronics
+612,Très bon rapport qualité prix,FR,5,positive,electronics
+613,Très mauvaise expérience,FR,1,negative,fashion
+614,Great value for money,EN,5,positive,fashion
+615,Très mauvaise expérience,FR,1,negative,electronics
+616,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+617,"It's okay, average quality",EN,3,neutral,electronics
+618,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+619,ضياع الفلوس,DAR,1,negative,fashion
+620,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+621,"Excellent product, very satisfied",EN,5,positive,electronics
+622,Perte d'argent,FR,1,negative,home
+623,"It's okay, average quality",EN,3,neutral,electronics
+624,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+625,Waste of money,EN,1,negative,home
+626,"Excellent product, very satisfied",EN,5,positive,electronics
+627,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+628,"Produit excellent, très satisfait",FR,5,positive,electronics
+629,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+630,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+631,"Terrible experience, not recommended",EN,1,negative,fashion
+632,Très mauvaise expérience,FR,1,negative,fashion
+633,Great value for money,EN,5,positive,electronics
+634,Très bon rapport qualité prix,FR,5,positive,home
+635,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+636,"Terrible experience, not recommended",EN,1,negative,electronics
+637,Perte d'argent,FR,1,negative,home
+638,"Excellent product, very satisfied",EN,5,positive,home
+639,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+640,"It's okay, average quality",EN,3,neutral,fashion
+641,"Excellent product, very satisfied",EN,5,positive,home
+642,"Produit excellent, très satisfait",FR,5,positive,fashion
+643,Waste of money,EN,1,negative,fashion
+644,Perte d'argent,FR,1,negative,fashion
+645,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+646,Perte d'argent,FR,1,negative,electronics
+647,Great value for money,EN,5,positive,home
+648,Très bon rapport qualité prix,FR,5,positive,electronics
+649,"C'est moyen, qualité correcte",FR,3,neutral,home
+650,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+651,ضياع الفلوس,DAR,1,negative,electronics
+652,Perte d'argent,FR,1,negative,fashion
+653,"Excellent product, very satisfied",EN,5,positive,fashion
+654,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+655,"Terrible experience, not recommended",EN,1,negative,home
+656,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+657,"Produit excellent, très satisfait",FR,5,positive,fashion
+658,Waste of money,EN,1,negative,electronics
+659,"Produit excellent, très satisfait",FR,5,positive,electronics
+660,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+661,ضياع الفلوس,DAR,1,negative,fashion
+662,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+663,"Terrible experience, not recommended",EN,1,negative,electronics
+664,ضياع الفلوس,DAR,1,negative,fashion
+665,Très bon rapport qualité prix,FR,5,positive,home
+666,"Produit excellent, très satisfait",FR,5,positive,home
+667,Perte d'argent,FR,1,negative,home
+668,"Excellent product, very satisfied",EN,5,positive,home
+669,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+670,منتوج زوين بزاف عجبني,DAR,5,positive,home
+671,"It's okay, average quality",EN,3,neutral,home
+672,Waste of money,EN,1,negative,electronics
+673,Great value for money,EN,5,positive,fashion
+674,"Produit excellent, très satisfait",FR,5,positive,fashion
+675,Waste of money,EN,1,negative,fashion
+676,Great value for money,EN,5,positive,electronics
+677,"Excellent product, very satisfied",EN,5,positive,fashion
+678,"It's okay, average quality",EN,3,neutral,home
+679,Très bon rapport qualité prix,FR,5,positive,home
+680,"Excellent product, very satisfied",EN,5,positive,electronics
+681,"C'est moyen, qualité correcte",FR,3,neutral,home
+682,Très mauvaise expérience,FR,1,negative,fashion
+683,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+684,"Terrible experience, not recommended",EN,1,negative,electronics
+685,Très bon rapport qualité prix,FR,5,positive,electronics
+686,"Terrible experience, not recommended",EN,1,negative,fashion
+687,"It's okay, average quality",EN,3,neutral,fashion
+688,Très mauvaise expérience,FR,1,negative,home
+689,ضياع الفلوس,DAR,1,negative,electronics
+690,"Produit excellent, très satisfait",FR,5,positive,home
+691,"It's okay, average quality",EN,3,neutral,fashion
+692,ضياع الفلوس,DAR,1,negative,electronics
+693,Très bon rapport qualité prix,FR,5,positive,home
+694,منتوج زوين بزاف عجبني,DAR,5,positive,home
+695,"Excellent product, very satisfied",EN,5,positive,fashion
+696,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+697,"Excellent product, very satisfied",EN,5,positive,home
+698,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+699,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+700,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+701,ضياع الفلوس,DAR,1,negative,home
+702,Très bon rapport qualité prix,FR,5,positive,fashion
+703,"Produit excellent, très satisfait",FR,5,positive,fashion
+704,Waste of money,EN,1,negative,fashion
+705,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+706,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+707,"C'est moyen, qualité correcte",FR,3,neutral,home
+708,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+709,Waste of money,EN,1,negative,fashion
+710,"Excellent product, very satisfied",EN,5,positive,home
+711,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+712,Très bon rapport qualité prix,FR,5,positive,home
+713,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+714,"Excellent product, very satisfied",EN,5,positive,fashion
+715,منتوج زوين بزاف عجبني,DAR,5,positive,home
+716,"Terrible experience, not recommended",EN,1,negative,fashion
+717,"Produit excellent, très satisfait",FR,5,positive,electronics
+718,Great value for money,EN,5,positive,electronics
+719,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+720,"Excellent product, very satisfied",EN,5,positive,fashion
+721,"Terrible experience, not recommended",EN,1,negative,fashion
+722,"Terrible experience, not recommended",EN,1,negative,fashion
+723,Très mauvaise expérience,FR,1,negative,electronics
+724,"It's okay, average quality",EN,3,neutral,fashion
+725,Perte d'argent,FR,1,negative,home
+726,Très bon rapport qualité prix,FR,5,positive,home
+727,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+728,ضياع الفلوس,DAR,1,negative,electronics
+729,Great value for money,EN,5,positive,home
+730,Waste of money,EN,1,negative,fashion
+731,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+732,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+733,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+734,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+735,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+736,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+737,Très mauvaise expérience,FR,1,negative,electronics
+738,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+739,Great value for money,EN,5,positive,electronics
+740,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+741,Perte d'argent,FR,1,negative,fashion
+742,"Excellent product, very satisfied",EN,5,positive,electronics
+743,"Produit excellent, très satisfait",FR,5,positive,fashion
+744,Très mauvaise expérience,FR,1,negative,home
+745,ضياع الفلوس,DAR,1,negative,electronics
+746,"Produit excellent, très satisfait",FR,5,positive,electronics
+747,Waste of money,EN,1,negative,home
+748,"Produit excellent, très satisfait",FR,5,positive,fashion
+749,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+750,Très mauvaise expérience,FR,1,negative,electronics
+751,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+752,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+753,"It's okay, average quality",EN,3,neutral,home
+754,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+755,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+756,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+757,ضياع الفلوس,DAR,1,negative,fashion
+758,ضياع الفلوس,DAR,1,negative,electronics
+759,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+760,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+761,"Produit excellent, très satisfait",FR,5,positive,electronics
+762,"Produit excellent, très satisfait",FR,5,positive,electronics
+763,"Excellent product, very satisfied",EN,5,positive,home
+764,Très bon rapport qualité prix,FR,5,positive,electronics
+765,Très mauvaise expérience,FR,1,negative,home
+766,منتوج زوين بزاف عجبني,DAR,5,positive,home
+767,Très mauvaise expérience,FR,1,negative,electronics
+768,"Excellent product, very satisfied",EN,5,positive,home
+769,Waste of money,EN,1,negative,fashion
+770,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+771,Great value for money,EN,5,positive,fashion
+772,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+773,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+774,Great value for money,EN,5,positive,electronics
+775,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+776,"Terrible experience, not recommended",EN,1,negative,home
+777,"Excellent product, very satisfied",EN,5,positive,fashion
+778,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+779,"Excellent product, very satisfied",EN,5,positive,electronics
+780,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+781,"Terrible experience, not recommended",EN,1,negative,electronics
+782,"It's okay, average quality",EN,3,neutral,electronics
+783,Great value for money,EN,5,positive,fashion
+784,Très bon rapport qualité prix,FR,5,positive,fashion
+785,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+786,Très bon rapport qualité prix,FR,5,positive,home
+787,ضياع الفلوس,DAR,1,negative,electronics
+788,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+789,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+790,Très mauvaise expérience,FR,1,negative,home
+791,Waste of money,EN,1,negative,fashion
+792,"Terrible experience, not recommended",EN,1,negative,electronics
+793,"Excellent product, very satisfied",EN,5,positive,fashion
+794,ضياع الفلوس,DAR,1,negative,home
+795,"Produit excellent, très satisfait",FR,5,positive,fashion
+796,"Produit excellent, très satisfait",FR,5,positive,home
+797,Perte d'argent,FR,1,negative,home
+798,Très bon rapport qualité prix,FR,5,positive,fashion
+799,"Excellent product, very satisfied",EN,5,positive,home
+800,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+801,Très mauvaise expérience,FR,1,negative,electronics
+802,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+803,"Terrible experience, not recommended",EN,1,negative,fashion
+804,"Terrible experience, not recommended",EN,1,negative,fashion
+805,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+806,Perte d'argent,FR,1,negative,fashion
+807,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+808,Waste of money,EN,1,negative,electronics
+809,ضياع الفلوس,DAR,1,negative,fashion
+810,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+811,Waste of money,EN,1,negative,electronics
+812,ضياع الفلوس,DAR,1,negative,home
+813,ضياع الفلوس,DAR,1,negative,home
+814,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+815,"It's okay, average quality",EN,3,neutral,fashion
+816,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+817,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+818,Perte d'argent,FR,1,negative,fashion
+819,ضياع الفلوس,DAR,1,negative,electronics
+820,Waste of money,EN,1,negative,home
+821,Très mauvaise expérience,FR,1,negative,fashion
+822,"C'est moyen, qualité correcte",FR,3,neutral,home
+823,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+824,"Terrible experience, not recommended",EN,1,negative,home
+825,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+826,"Excellent product, very satisfied",EN,5,positive,home
+827,Très bon rapport qualité prix,FR,5,positive,home
+828,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+829,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+830,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+831,Perte d'argent,FR,1,negative,electronics
+832,"It's okay, average quality",EN,3,neutral,electronics
+833,Perte d'argent,FR,1,negative,home
+834,Great value for money,EN,5,positive,fashion
+835,Très mauvaise expérience,FR,1,negative,fashion
+836,Très bon rapport qualité prix,FR,5,positive,home
+837,"Excellent product, very satisfied",EN,5,positive,fashion
+838,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+839,"It's okay, average quality",EN,3,neutral,home
+840,Perte d'argent,FR,1,negative,electronics
+841,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+842,Très mauvaise expérience,FR,1,negative,home
+843,"Produit excellent, très satisfait",FR,5,positive,electronics
+844,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+845,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+846,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+847,Perte d'argent,FR,1,negative,fashion
+848,Très bon rapport qualité prix,FR,5,positive,fashion
+849,"Produit excellent, très satisfait",FR,5,positive,fashion
+850,ضياع الفلوس,DAR,1,negative,electronics
+851,"Produit excellent, très satisfait",FR,5,positive,electronics
+852,ضياع الفلوس,DAR,1,negative,home
+853,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+854,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+855,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+856,"Terrible experience, not recommended",EN,1,negative,electronics
+857,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+858,Très mauvaise expérience,FR,1,negative,fashion
+859,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+860,Très bon rapport qualité prix,FR,5,positive,home
+861,Waste of money,EN,1,negative,home
+862,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+863,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+864,ضياع الفلوس,DAR,1,negative,electronics
+865,Waste of money,EN,1,negative,electronics
+866,Waste of money,EN,1,negative,fashion
+867,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+868,Perte d'argent,FR,1,negative,home
+869,Très bon rapport qualité prix,FR,5,positive,home
+870,Waste of money,EN,1,negative,fashion
+871,Très mauvaise expérience,FR,1,negative,fashion
+872,"Terrible experience, not recommended",EN,1,negative,home
+873,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+874,Très bon rapport qualité prix,FR,5,positive,electronics
+875,Très bon rapport qualité prix,FR,5,positive,home
+876,"Produit excellent, très satisfait",FR,5,positive,fashion
+877,Perte d'argent,FR,1,negative,home
+878,منتوج زوين بزاف عجبني,DAR,5,positive,fashion
+879,"Excellent product, very satisfied",EN,5,positive,electronics
+880,"Produit excellent, très satisfait",FR,5,positive,electronics
+881,Très mauvaise expérience,FR,1,negative,home
+882,"Excellent product, very satisfied",EN,5,positive,home
+883,"Excellent product, very satisfied",EN,5,positive,fashion
+884,ضياع الفلوس,DAR,1,negative,home
+885,"C'est moyen, qualité correcte",FR,3,neutral,home
+886,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+887,"Terrible experience, not recommended",EN,1,negative,electronics
+888,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+889,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+890,ضياع الفلوس,DAR,1,negative,fashion
+891,"It's okay, average quality",EN,3,neutral,home
+892,"Produit excellent, très satisfait",FR,5,positive,home
+893,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+894,"C'est moyen, qualité correcte",FR,3,neutral,home
+895,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+896,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+897,Great value for money,EN,5,positive,electronics
+898,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+899,منتوج زوين بزاف عجبني,DAR,5,positive,home
+900,Waste of money,EN,1,negative,electronics
+901,"It's okay, average quality",EN,3,neutral,electronics
+902,Great value for money,EN,5,positive,fashion
+903,"It's okay, average quality",EN,3,neutral,electronics
+904,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+905,"Produit excellent, très satisfait",FR,5,positive,home
+906,Waste of money,EN,1,negative,electronics
+907,"Terrible experience, not recommended",EN,1,negative,electronics
+908,"Produit excellent, très satisfait",FR,5,positive,electronics
+909,"C'est moyen, qualité correcte",FR,3,neutral,electronics
+910,"Terrible experience, not recommended",EN,1,negative,electronics
+911,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+912,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+913,ضياع الفلوس,DAR,1,negative,electronics
+914,Great value for money,EN,5,positive,fashion
+915,"Excellent product, very satisfied",EN,5,positive,fashion
+916,عادي الجودة ديالو مقبولة,DAR,3,neutral,electronics
+917,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+918,Great value for money,EN,5,positive,electronics
+919,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+920,Perte d'argent,FR,1,negative,home
+921,ضياع الفلوس,DAR,1,negative,fashion
+922,Great value for money,EN,5,positive,electronics
+923,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+924,Très mauvaise expérience,FR,1,negative,home
+925,Waste of money,EN,1,negative,home
+926,Great value for money,EN,5,positive,electronics
+927,Great value for money,EN,5,positive,home
+928,"Produit excellent, très satisfait",FR,5,positive,fashion
+929,Perte d'argent,FR,1,negative,electronics
+930,Great value for money,EN,5,positive,fashion
+931,"Produit excellent, très satisfait",FR,5,positive,electronics
+932,Très mauvaise expérience,FR,1,negative,fashion
+933,ضياع الفلوس,DAR,1,negative,fashion
+934,Great value for money,EN,5,positive,electronics
+935,تجربة خايبة ما ننصحش بيه,DAR,1,negative,fashion
+936,"C'est moyen, qualité correcte",FR,3,neutral,home
+937,"Terrible experience, not recommended",EN,1,negative,electronics
+938,Perte d'argent,FR,1,negative,fashion
+939,"Excellent product, very satisfied",EN,5,positive,home
+940,Perte d'argent,FR,1,negative,home
+941,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+942,Perte d'argent,FR,1,negative,fashion
+943,ضياع الفلوس,DAR,1,negative,home
+944,"Produit excellent, très satisfait",FR,5,positive,electronics
+945,Great value for money,EN,5,positive,fashion
+946,Très mauvaise expérience,FR,1,negative,fashion
+947,Great value for money,EN,5,positive,electronics
+948,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+949,"Produit excellent, très satisfait",FR,5,positive,fashion
+950,ثمن مناسب وجودة مزيانة,DAR,5,positive,fashion
+951,"Excellent product, very satisfied",EN,5,positive,home
+952,"It's okay, average quality",EN,3,neutral,fashion
+953,ثمن مناسب وجودة مزيانة,DAR,5,positive,electronics
+954,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+955,Perte d'argent,FR,1,negative,home
+956,"Terrible experience, not recommended",EN,1,negative,electronics
+957,Waste of money,EN,1,negative,electronics
+958,Great value for money,EN,5,positive,home
+959,ضياع الفلوس,DAR,1,negative,electronics
+960,"Produit excellent, très satisfait",FR,5,positive,home
+961,"Produit excellent, très satisfait",FR,5,positive,electronics
+962,"It's okay, average quality",EN,3,neutral,fashion
+963,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+964,"It's okay, average quality",EN,3,neutral,home
+965,Perte d'argent,FR,1,negative,fashion
+966,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+967,"It's okay, average quality",EN,3,neutral,electronics
+968,عادي الجودة ديالو مقبولة,DAR,3,neutral,fashion
+969,"C'est moyen, qualité correcte",FR,3,neutral,home
+970,Très mauvaise expérience,FR,1,negative,home
+971,عادي الجودة ديالو مقبولة,DAR,3,neutral,home
+972,ضياع الفلوس,DAR,1,negative,fashion
+973,Très bon rapport qualité prix,FR,5,positive,home
+974,"Produit excellent, très satisfait",FR,5,positive,electronics
+975,"Excellent product, very satisfied",EN,5,positive,fashion
+976,Perte d'argent,FR,1,negative,home
+977,Très bon rapport qualité prix,FR,5,positive,home
+978,منتوج زوين بزاف عجبني,DAR,5,positive,home
+979,"Terrible experience, not recommended",EN,1,negative,electronics
+980,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+981,Great value for money,EN,5,positive,electronics
+982,Great value for money,EN,5,positive,electronics
+983,Très mauvaise expérience,FR,1,negative,fashion
+984,"Excellent product, very satisfied",EN,5,positive,home
+985,Très bon rapport qualité prix,FR,5,positive,fashion
+986,"Excellent product, very satisfied",EN,5,positive,electronics
+987,"Terrible experience, not recommended",EN,1,negative,electronics
+988,"Terrible experience, not recommended",EN,1,negative,fashion
+989,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+990,"C'est moyen, qualité correcte",FR,3,neutral,fashion
+991,منتوج زوين بزاف عجبني,DAR,5,positive,electronics
+992,Très bon rapport qualité prix,FR,5,positive,electronics
+993,ثمن مناسب وجودة مزيانة,DAR,5,positive,home
+994,ضياع الفلوس,DAR,1,negative,fashion
+995,Waste of money,EN,1,negative,fashion
+996,تجربة خايبة ما ننصحش بيه,DAR,1,negative,home
+997,تجربة خايبة ما ننصحش بيه,DAR,1,negative,electronics
+998,Perte d'argent,FR,1,negative,electronics
+999,"It's okay, average quality",EN,3,neutral,electronics
+1000,Perte d'argent,FR,1,negative,fashion
